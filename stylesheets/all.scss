@@ -1,0 +1,20 @@
+@import "../node_modules/bootstrap/scss/functions";
+@import "./helpers/variables";
+
+@import "../node_modules/bootstrap/scss/bootstrap";
+@import "./helpers/utilities";
+
+@import "../node_modules/bootstrap/scss/utilities/api";
+
+
+// stylesheets/components
+@import "./components/dec-box";
+@import "./components/bg-cover";
+@import "./components/bg-attachment";
+@import "./components/bg-dark-gradient";
+@import "./components/bg-none";
+@import "./components/bg-hover";
+@import "./components/box";
+@import "./components/a-decoration";
+@import "./components/bg-opacity";
+
